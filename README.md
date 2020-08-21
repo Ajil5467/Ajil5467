@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Ajil T U👋
+#### Google Cloud Ready Facilitator at Google India | CS Under Grad Student | Cloud Enthusiast | Full Stack Web Developer
+#### - 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India
+#### - 📫 How to reach me: https://www.linkedin.com/in/ajil-t-u/
+#### - 🌱 I’m currently learning about Cloud technology and its Applications.
+
 
 <!--
 **Ajil5467/Ajil5467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
