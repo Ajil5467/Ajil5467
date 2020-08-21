@@ -1,5 +1,5 @@
 ### Hi there I am Ajil T U👋
-#### Google Cloud Ready Facilitator at Google India | CS Under Grad Student | Cloud Enthusiast | Full Stack Web Developer
+#### GoogleCloudReady Facilitator at Google India || Founder & Club lead Tinkerhub GEC SKP, Hack Club GEC SKP || Web Developer || Cloud Computing enthusiast
 #### - 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India
 #### - 📫 How to reach me: https://www.linkedin.com/in/ajil-t-u/
 #### - 🌱 I’m currently learning about Cloud technology and its Applications.
