@@ -4,7 +4,7 @@
 #### - 📫 How to reach me: https://www.linkedin.com/in/ajil-t-u/
 #### - 🌱 I’m currently learning about Cloud technology and its Applications.
 
-[![Ajil's github stats](https://github-readme-stats.vercel.app/api?username=Ajil5467)](https://github.com/Ajil5467/github-readme-stats)
+[![Ajil's github stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&count_private=true)](https://github.com/Ajil5467/github-readme-stats)
 
 
 <!--
