@@ -6,7 +6,9 @@
 
 [![Ajil's github stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&count_private=true&show_icons=true&theme=radical)](https://github.com/Ajil5467/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajil5467&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajil5467&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
