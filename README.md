@@ -12,7 +12,7 @@
 - ⚡ Fun fact:- I don't use instagram ;).
 - 📫 How to reach me: mail me at [ajiltu5467@gmail.com](mailto:ajiltu5467@gmail.com)
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajil5467&layout=compact&hide=html&theme=merko)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
 
 ### Languages and Tools:
 
