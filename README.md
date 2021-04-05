@@ -5,6 +5,13 @@
 [![Github Badge](https://img.shields.io/badge/github-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajil5467/Ajil5467)
 <img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
 
+[![Twitter Badge](https://img.shields.io/badge/@namanhey-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/namanhey)
+[![Linkedin Badge](https://img.shields.io/badge/naman360-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/naman360/)
+[![Medium Badge](https://img.shields.io/badge/naman360-30302f?style=flat&logo=medium)](https://medium.com/@naman360)
+[![Gmail Badge](https://img.shields.io/badge/naman.geek@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:naman.geek@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=namn360" alt="Naman Shankhydhar">
+
+
 ## Hi there 👋,           
 ##### I'm Ajil T U, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
 ## 🧐 About
