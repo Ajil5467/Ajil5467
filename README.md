@@ -1,7 +1,7 @@
 # Ajil T U
 [![Linkedin Badge](https://img.shields.io/badge/vanisingh-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
 [![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ajiltu5467@gmail.com)
-[![Github Badge](https://img.shields.io/badge/vanisingh-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajil5467/Ajil5467)
+[![Github Badge](https://img.shields.io/badge/ajiltu-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajil5467/Ajil5467)
 ## Hi there 👋,           
 ##### I'm Ajil T U, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
 ## 🧐 About
