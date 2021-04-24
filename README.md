@@ -9,7 +9,7 @@
 ## Hi there 👋,           
 ##### I'm Ajil T U, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
 ## 🧐 About
-- 🏄‍ full stack developer.
+- 🏄‍ I'm a full stack developer.
 - 🤝 I am looking forward to collaborate on projects.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Machine Learning.
