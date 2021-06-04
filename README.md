@@ -1,13 +1,13 @@
 <h2 align = "left"> About Me 👩‍💻 </h2>
 <h3> CS student | Aspiring Frontend Developer | Javascript_coder </h3>
 
-- 👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+- 👩‍🎓I'm a Engineering undergrad at Government Engineering College Palakkad.
 - 📁I'm a tech enthusiast and a self taught programmer.
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning Java.
 - 📘I'm currently into web development and Javascript programming.
 - 👯 I’m looking to collaborate with other programmers for small projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and
+- ⚡ Fun fact:- I don't use instagram ;)
+- 📫 How to reach me: mail me at [ajiltu5467@gmail.com](mailto:ajiltu5467@gmail.com)
 </br>
 </br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
