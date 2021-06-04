@@ -1,23 +1,13 @@
-<img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
-<h2>I'm Ajil T U <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
-[![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
-[![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:ajiltu5467@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
-
-
-
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<h3> CS student | Aspiring Software Developer | Cloud Computing Enthusiast </h3>
-- 🏄‍ I'm a full stack developer.
-- 🤝 I am looking forward to collaborate on projects.
-- 🌱 I’m currently learning Java.
-- 🤔 I’m looking for help with Machine Learning.
-- ⚡ Fun fact:- I don't use instagram ;)
-- 📫 How to reach me: mail me at [ajiltu5467@gmail.com](mailto:ajiltu5467@gmail.com)
+<h3> CS student | Aspiring Frontend Developer | Javascript_coder </h3>
+
+- 👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+- 📁I'm a tech enthusiast and a self taught programmer.
+- 🌱 I’m currently learning ReactJs.
+- 📘I'm currently into web development and Javascript programming.
+- 👯 I’m looking to collaborate with other programmers for small projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and
 </br>
 </br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
