@@ -9,8 +9,10 @@
 - ⚡ Fun fact:- I don't use instagram ;)
 - 📫 How to reach me: mail me at [ajiltu5467@gmail.com](mailto:ajiltu5467@gmail.com)
 </br>
-</br>
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
+</br><p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajil5467&theme=tokyonight" />
+</p>  
 
 ### Languages and Tools:
 
