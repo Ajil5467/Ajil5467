@@ -1,3 +1,12 @@
+
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
+[![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
+[![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:ajiltu5467@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
+
 <h2 align = "left"> About Me 👩‍💻 </h2>
 <h3> CS student | Aspiring Software Developer | Cloud Computing Enthusiast </h3>
 
