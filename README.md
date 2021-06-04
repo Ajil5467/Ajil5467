@@ -1,5 +1,5 @@
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<h3> CS student | Aspiring Frontend Developer | Javascript_coder </h3>
+<h3> CS student | Aspiring Software Developer | Cloud Computing Enthusiast </h3>
 
 - 👩‍🎓I'm a Engineering undergrad at Government Engineering College Palakkad.
 - 📁I'm a tech enthusiast and a self taught programmer.
