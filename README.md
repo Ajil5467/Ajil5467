@@ -1,3 +1,4 @@
+<img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 # Ajil T U
 
 [![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
