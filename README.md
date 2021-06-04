@@ -1,7 +1,7 @@
 <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 <h2>I'm Ajil T U <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-</br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
 [![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
@@ -9,8 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
 
 
-## Hi there 👋,           
-##### I'm Ajil T U, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
+
 <h2 align = "left"> About Me 👩‍💻 </h2>
 <h3> CS student | Aspiring Software Developer | Cloud Computing Enthusiast </h3>
 - 🏄‍ I'm a full stack developer.
