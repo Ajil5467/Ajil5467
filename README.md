@@ -1,5 +1,7 @@
 <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
-# Ajil T U
+<h2>I'm Ajil T U <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img src="https://komarev.com/ghpvc/?username=khushi-kothari" alt="visits" />
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
 [![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
