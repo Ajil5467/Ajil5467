@@ -8,7 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<h3> CS student | Aspiring Software Developer | Cloud Computing Enthusiast </h3>
 
 - 👩‍🎓I'm a Engineering undergrad at Government Engineering College Palakkad.
 - 📁I'm a tech enthusiast and a self taught programmer.
