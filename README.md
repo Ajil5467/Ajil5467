@@ -9,7 +9,7 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-- 👩‍🎓I'm a Engineering undergrad at Government Engineering College Palakkad.
+
 - 📁I'm a tech enthusiast and a self taught programmer.
 - 🌱 I’m currently learning Java.
 - 📘I'm currently into web development and Javascript programming.
